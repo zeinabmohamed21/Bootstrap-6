@@ -1,0 +1,50 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+    font-family: "Kanit", sans-serif;
+}
+/* navbar */
+.headerlogo{
+    font-size: 35px;
+    margin-right: 5px;
+    margin-left: 40px;
+    color:#80C4E9;
+}
+/* ///////////////////////////////////////////////////////////////////////////////////// */
+/* home */
+.landing{
+    height: 595px;
+    background-image: url(../images/off.jpg);
+    background-size: cover;
+}
+/* /////////////////////////////////////////////////////////////////////////////////// */
+ .list-1 li{
+    color: white;
+    list-style: square;
+    line-height: 28px;
+ }
+/* /////////////////////////////////////////////////////////////////////////////////////// */
+.hr-1 {
+    width: 150px;
+    height: 3px;
+    background-color:#121481;
+    margin: auto;
+}
+.icon-1{
+    font-size: 40px;
+    color:#121481
+}
+.list-2 li{
+    margin-left: 35px;
+    list-style: square;
+    line-height: 28px;
+ }
+ /* //////////////////////////////////////////////////// */
+  .footerlogo{
+    color: white;
+    font-size: 25px;
+  }
+  .footerlist{
+    line-height: 35px;
+  }
